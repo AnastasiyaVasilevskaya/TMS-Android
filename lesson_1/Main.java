@@ -10,7 +10,8 @@ public class Main {
         int a = scan.nextInt();
         int b = scan.nextInt();
         System.out.println("Сумма чисел: " + (a + b));
-
+        System.out.println();
+        
         // 2 задание
         System.out.println("Hello World");
         System.out.println();
